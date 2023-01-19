@@ -1,0 +1,2 @@
+[virtual]
+ranjith ansible_host=192.168.15.148 ansible_user=ranjith
