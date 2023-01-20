@@ -1,0 +1,4 @@
+- name: blu-aie
+  hosts: server
+  roles:
+  - blu-aie

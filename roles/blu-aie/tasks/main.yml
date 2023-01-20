@@ -1,0 +1,5 @@
+---
+- name: postgres-sql
+   # become: true
+  command: docker run --name postgresql -e POSTGRES_USER=vinuvinay -e POSTGRES_PASSWORD=vinay -p 5432:5432 -v /data:/var/lib/postgresql/data6 -itd postgres:latest
+

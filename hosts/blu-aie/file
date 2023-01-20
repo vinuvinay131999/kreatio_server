@@ -1,0 +1,2 @@
+[server]
+vboxuser ansible_host=192.168.20.20 ansible_user=vboxuser
