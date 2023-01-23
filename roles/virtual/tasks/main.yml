@@ -1,0 +1,3 @@
+---
+- name: virtual-ex
+  command: mkdir virtual-example

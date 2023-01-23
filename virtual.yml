@@ -1,0 +1,4 @@
+- name: example
+  hosts: virtualserver
+  roles:
+     - virtual

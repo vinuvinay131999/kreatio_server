@@ -1,0 +1,2 @@
+[virtualserver]
+vinuvinay ansible_host=192.168.15.121 ansible_user=vinuvinay
